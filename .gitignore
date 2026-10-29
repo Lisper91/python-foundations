@@ -1,0 +1,4 @@
+﻿tasks.json
+*.tmp
+__pycache__/
+
